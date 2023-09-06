@@ -1,8 +1,19 @@
 # Tojo Rabemananjara's Profile
-## Introduction
-This webpage is meant to be a profile page to highlight my interests, professional experiences, skills, and other things about me.
-## Technology
+## Skills
 * HTML
 * CSS
-## Launch
+* JavaScript
+* TypeScript
+* React
+* React NAtive
+* Python
+* APIs
+* Node
+* MySQL
+* AppleScript
+* Bash
+* Linux
 
+## Contact Info:
+* tojorab@gmail.com
+* 240-660-6468
